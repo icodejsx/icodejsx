@@ -15,7 +15,7 @@
         <br/>
         🙂 &nbsp;I love JavaScript and solidity
         <br/>
-        🧑🏽‍💻 &nbsp;
+        🧑🏽‍💻 &nbsp;I love Good Music 
         <br />
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
