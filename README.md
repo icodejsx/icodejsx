@@ -1,4 +1,4 @@
-[![profile Header](https://user-images.githubusercontent.com/78784850/223382595-206f2aef-9fc7-4782-a57c-f5e21fb9a120.jpg)](https://dunsin.vercel.app/)
+
 
 ## Wonderful Intro
 
@@ -13,41 +13,23 @@
         <br/>
         🚀 &nbsp;I love contributing to Opensource Projects
         <br/>
-        🙂 &nbsp;I'm a content creator on Instagram.
+        🙂 &nbsp;I love JavaScript and solidity
         <br/>
-        🧑🏽‍💻 &nbsp;Reach out to me through twitter or the contact form in <a href="https://dunsin.vercel.app/">my portfolio</a>
+        🧑🏽‍💻 &nbsp;
         <br />
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
         <br />
-        <h3>Show your Support🤝🏽</h3>
-        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
-        <br/>
-        <br />
-        <h3>Twitter & Discord Community</h3>
-        <a href="https://discord.gg/kcFraw3nhz"><img src="https://dcbadge.vercel.app/api/server/kcFraw3nhz" alt="Realist discord server"/></a>
-        <br/>
-        <a href="https://twitter.com/DunsinWebDev">
-          <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
-       </p>
-    </td>
+    
+      //
+
     <td>
-      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+<a href="https://app.daily.dev/icodejsx"><img src="https://api.daily.dev/devcards/9006b5657f984b6299a44312a7dca0c7.png?r=evr" width="400" alt="Nweke kenechukwu christopher's Dev Card"/></a>
     </td>
   </tr>
 </table>
 
-## Contribute to My Projects👇🏽
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Dun-sin/Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Whisper" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/Dun-sin/Code-Magic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Code-Magic" /></a>
-    </td>
-  </tr>
-</table>
+
 
 ## My Github Stats && Technologies I use:
 <table>
