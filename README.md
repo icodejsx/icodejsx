@@ -1,4 +1,5 @@
-![Studio_Project_V1](https://github.com/icodejsx/icodejsx/assets/72747787/98a1fb48-c41a-4c08-8666-90dd44a82e8b)
+
+<img src="https://github.com/icodejsx/icodejsx/assets/72747787/98a1fb48-c41a-4c08-8666-90dd44a82e8b" width="1000"/>
 <br>
 <br>
 
