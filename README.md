@@ -34,9 +34,9 @@
 </p>
 
 <p align="center">
-  <img height="150" width="150" src="assets/left.webp">
+  <img height="150" width="150" src="https://github.com/DonGuillotine/DonGuillotine/blob/main/assets/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=icodejsx&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="assets/right.webp">
+  <img height="150" width="150" src="https://github.com/DonGuillotine/DonGuillotine/blob/main/assets/right.webp">
 </p>
 
 #
