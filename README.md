@@ -1,4 +1,4 @@
-![Studio_Project](https://user-images.githubusercontent.com/89584431/216503042-d6ec35f1-be45-470f-90ec-38ebcb76f09d.gif)
+![Studio_Project_V1](https://github.com/icodejsx/icodejsx/assets/72747787/98a1fb48-c41a-4c08-8666-90dd44a82e8b)
 <br>
 <br>
 
@@ -28,12 +28,12 @@
 #
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DonGuillotine&theme=darkhub&column=-1&margin-w=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=icodejsx&theme=darkhub&column=-1&margin-w=15">
 </p>
 
 <p align="center">
   <img height="150" width="150" src="assets/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DonGuillotine&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=icodejsx&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="assets/right.webp">
 </p>
 
