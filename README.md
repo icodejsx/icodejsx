@@ -1,4 +1,4 @@
-![Studio_Project](https://user-images.githubusercontent.com/89584431/216503042-d6ec35f1-be45-470f-90ec-38ebcb76f09d.gif)
+![Studio_Project](<div style="height: 0; padding-bottom: calc(40.00%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/64cfe4f7634cf902a46e2e5c" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>)
 <br>
 <br>
 
