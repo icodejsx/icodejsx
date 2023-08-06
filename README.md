@@ -1,9 +1,8 @@
-
 <img src="https://github.com/icodejsx/icodejsx/assets/72747787/98a1fb48-c41a-4c08-8666-90dd44a82e8b" width="1000"/>
 <br>
 <br>
 
-<a href="https://app.daily.dev/DonGuillotine">
+<a href="https://app.daily.dev/icodejsx">
   <img src="https://app.daily.dev/icodejsx"><img src="https://api.daily.dev/devcards/9006b5657f984b6299a44312a7dca0c7.png?r=mad" width="400" alt="Nweke kenechukwu christopher's Dev Card"align="right"/>
 </a>
 
