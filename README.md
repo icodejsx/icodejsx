@@ -12,7 +12,7 @@
 - 🚀  I’m currently looking for a Job as a Frontend Developer.
 - 👥  I’m looking to collaborate with people with Amazing Ideas!
 - 🎵  I'm a music lover 
-- 🎮  I love to play Games too (Pes!!)
+- 🎮  I love to play Games too (Pes)
 <br/>
 
 ## 📩 Connect with me!
